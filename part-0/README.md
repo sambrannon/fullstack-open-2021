@@ -1,4 +1,4 @@
-# Part 0
+# Part 0 - The fundamentals of Web Apps
 
 Exercises:
 
